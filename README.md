@@ -1,5 +1,3 @@
-# 001_SyntheticJetBasedOnSU2
-the python scripts to imply changing BCs in SU2
 # Synthetic jet simulation with SU2  
 This project is set to solve the problem of the absence of changing boundary conditions(BCs) with time in Stanford University Unstructured(SU2). It is mainly based on Python Scripts. If any criticism or correction, please contact me via mengqinghe0909@126.com  
 ## The basic structure of the codes  
